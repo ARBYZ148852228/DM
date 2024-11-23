@@ -5,7 +5,7 @@ h =
 player_size =
 x1 = y1 =
 player1_color = 'green'
-x_finish = w -
+x_finish = 
 
 def key_handler(event):
     pass
